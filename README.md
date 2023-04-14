@@ -11,5 +11,8 @@ sudo apt install nginx -y
 sudo systemctl restart nginx 
 sudo systemctl enable nginx
 <img width="1232" alt="Screenshot 2023-04-14 at 14 16 24" src="https://user-images.githubusercontent.com/129948378/232092298-838faabb-c82b-430f-b05f-0ce3b89e9d1b.png">
+Press on the public adress in your instances 
+<img width="1277" alt="Screenshot 2023-04-14 at 18 11 49" src="https://user-images.githubusercontent.com/129948378/232112328-b6eeafff-93f7-48c1-b542-933fdd07cc52.png">
+
 We then navigate to our instance details and find our public ip address, which we will then paste into our browser to see if nginx has in fact been installed.
 <img width="891" alt="Screenshot 2023-04-14 at 16 49 55" src="https://user-images.githubusercontent.com/129948378/232092804-03bfed9d-04b6-4037-be18-9c9df7cd76c9.png">
